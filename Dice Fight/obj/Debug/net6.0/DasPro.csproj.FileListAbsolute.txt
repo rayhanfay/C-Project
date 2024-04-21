@@ -1,0 +1,44 @@
+C:\Users\raayynn\Desktop\DasPro\bin\Debug\net6.0\DasPro.exe
+C:\Users\raayynn\Desktop\DasPro\bin\Debug\net6.0\DasPro.deps.json
+C:\Users\raayynn\Desktop\DasPro\bin\Debug\net6.0\DasPro.runtimeconfig.json
+C:\Users\raayynn\Desktop\DasPro\bin\Debug\net6.0\DasPro.dll
+C:\Users\raayynn\Desktop\DasPro\bin\Debug\net6.0\DasPro.pdb
+C:\Users\raayynn\Desktop\DasPro\obj\Debug\net6.0\DasPro.csproj.AssemblyReference.cache
+C:\Users\raayynn\Desktop\DasPro\obj\Debug\net6.0\DasPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raayynn\Desktop\DasPro\obj\Debug\net6.0\DasPro.AssemblyInfoInputs.cache
+C:\Users\raayynn\Desktop\DasPro\obj\Debug\net6.0\DasPro.AssemblyInfo.cs
+C:\Users\raayynn\Desktop\DasPro\obj\Debug\net6.0\DasPro.csproj.CoreCompileInputs.cache
+C:\Users\raayynn\Desktop\DasPro\obj\Debug\net6.0\DasPro.dll
+C:\Users\raayynn\Desktop\DasPro\obj\Debug\net6.0\refint\DasPro.dll
+C:\Users\raayynn\Desktop\DasPro\obj\Debug\net6.0\DasPro.pdb
+C:\Users\raayynn\Desktop\DasPro\obj\Debug\net6.0\DasPro.genruntimeconfig.cache
+C:\Users\raayynn\Desktop\DasPro\obj\Debug\net6.0\ref\DasPro.dll
+C:\Users\62812\OneDrive\Desktop\DasPro\bin\Debug\net6.0\DasPro.exe
+C:\Users\62812\OneDrive\Desktop\DasPro\bin\Debug\net6.0\DasPro.deps.json
+C:\Users\62812\OneDrive\Desktop\DasPro\bin\Debug\net6.0\DasPro.runtimeconfig.json
+C:\Users\62812\OneDrive\Desktop\DasPro\bin\Debug\net6.0\DasPro.dll
+C:\Users\62812\OneDrive\Desktop\DasPro\bin\Debug\net6.0\DasPro.pdb
+C:\Users\62812\OneDrive\Desktop\DasPro\obj\Debug\net6.0\DasPro.csproj.AssemblyReference.cache
+C:\Users\62812\OneDrive\Desktop\DasPro\obj\Debug\net6.0\DasPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62812\OneDrive\Desktop\DasPro\obj\Debug\net6.0\DasPro.AssemblyInfoInputs.cache
+C:\Users\62812\OneDrive\Desktop\DasPro\obj\Debug\net6.0\DasPro.AssemblyInfo.cs
+C:\Users\62812\OneDrive\Desktop\DasPro\obj\Debug\net6.0\DasPro.csproj.CoreCompileInputs.cache
+C:\Users\62812\OneDrive\Desktop\DasPro\obj\Debug\net6.0\DasPro.dll
+C:\Users\62812\OneDrive\Desktop\DasPro\obj\Debug\net6.0\refint\DasPro.dll
+C:\Users\62812\OneDrive\Desktop\DasPro\obj\Debug\net6.0\DasPro.pdb
+C:\Users\62812\OneDrive\Desktop\DasPro\obj\Debug\net6.0\DasPro.genruntimeconfig.cache
+C:\Users\62812\OneDrive\Desktop\DasPro\obj\Debug\net6.0\ref\DasPro.dll
+C:\Users\62812\OneDrive - student.unri.ac.id\!!Kuliah\Semester 1\Daspro\rayhanalfarassydaspro-main\rayhanalfarassydaspro-main\Permainan Adu Dadu\bin\Debug\net6.0\DasPro.exe
+C:\Users\62812\OneDrive - student.unri.ac.id\!!Kuliah\Semester 1\Daspro\rayhanalfarassydaspro-main\rayhanalfarassydaspro-main\Permainan Adu Dadu\bin\Debug\net6.0\DasPro.deps.json
+C:\Users\62812\OneDrive - student.unri.ac.id\!!Kuliah\Semester 1\Daspro\rayhanalfarassydaspro-main\rayhanalfarassydaspro-main\Permainan Adu Dadu\bin\Debug\net6.0\DasPro.runtimeconfig.json
+C:\Users\62812\OneDrive - student.unri.ac.id\!!Kuliah\Semester 1\Daspro\rayhanalfarassydaspro-main\rayhanalfarassydaspro-main\Permainan Adu Dadu\bin\Debug\net6.0\DasPro.dll
+C:\Users\62812\OneDrive - student.unri.ac.id\!!Kuliah\Semester 1\Daspro\rayhanalfarassydaspro-main\rayhanalfarassydaspro-main\Permainan Adu Dadu\bin\Debug\net6.0\DasPro.pdb
+C:\Users\62812\OneDrive - student.unri.ac.id\!!Kuliah\Semester 1\Daspro\rayhanalfarassydaspro-main\rayhanalfarassydaspro-main\Permainan Adu Dadu\obj\Debug\net6.0\DasPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62812\OneDrive - student.unri.ac.id\!!Kuliah\Semester 1\Daspro\rayhanalfarassydaspro-main\rayhanalfarassydaspro-main\Permainan Adu Dadu\obj\Debug\net6.0\DasPro.AssemblyInfoInputs.cache
+C:\Users\62812\OneDrive - student.unri.ac.id\!!Kuliah\Semester 1\Daspro\rayhanalfarassydaspro-main\rayhanalfarassydaspro-main\Permainan Adu Dadu\obj\Debug\net6.0\DasPro.AssemblyInfo.cs
+C:\Users\62812\OneDrive - student.unri.ac.id\!!Kuliah\Semester 1\Daspro\rayhanalfarassydaspro-main\rayhanalfarassydaspro-main\Permainan Adu Dadu\obj\Debug\net6.0\DasPro.csproj.CoreCompileInputs.cache
+C:\Users\62812\OneDrive - student.unri.ac.id\!!Kuliah\Semester 1\Daspro\rayhanalfarassydaspro-main\rayhanalfarassydaspro-main\Permainan Adu Dadu\obj\Debug\net6.0\DasPro.dll
+C:\Users\62812\OneDrive - student.unri.ac.id\!!Kuliah\Semester 1\Daspro\rayhanalfarassydaspro-main\rayhanalfarassydaspro-main\Permainan Adu Dadu\obj\Debug\net6.0\refint\DasPro.dll
+C:\Users\62812\OneDrive - student.unri.ac.id\!!Kuliah\Semester 1\Daspro\rayhanalfarassydaspro-main\rayhanalfarassydaspro-main\Permainan Adu Dadu\obj\Debug\net6.0\DasPro.pdb
+C:\Users\62812\OneDrive - student.unri.ac.id\!!Kuliah\Semester 1\Daspro\rayhanalfarassydaspro-main\rayhanalfarassydaspro-main\Permainan Adu Dadu\obj\Debug\net6.0\DasPro.genruntimeconfig.cache
+C:\Users\62812\OneDrive - student.unri.ac.id\!!Kuliah\Semester 1\Daspro\rayhanalfarassydaspro-main\rayhanalfarassydaspro-main\Permainan Adu Dadu\obj\Debug\net6.0\ref\DasPro.dll

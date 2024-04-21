@@ -1,0 +1,15 @@
+C:\Users\62812\OneDrive\Desktop\DasProo\bin\Debug\net6.0\DasProo.exe
+C:\Users\62812\OneDrive\Desktop\DasProo\bin\Debug\net6.0\DasProo.deps.json
+C:\Users\62812\OneDrive\Desktop\DasProo\bin\Debug\net6.0\DasProo.runtimeconfig.json
+C:\Users\62812\OneDrive\Desktop\DasProo\bin\Debug\net6.0\DasProo.dll
+C:\Users\62812\OneDrive\Desktop\DasProo\bin\Debug\net6.0\DasProo.pdb
+C:\Users\62812\OneDrive\Desktop\DasProo\obj\Debug\net6.0\DasProo.csproj.AssemblyReference.cache
+C:\Users\62812\OneDrive\Desktop\DasProo\obj\Debug\net6.0\DasProo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62812\OneDrive\Desktop\DasProo\obj\Debug\net6.0\DasProo.AssemblyInfoInputs.cache
+C:\Users\62812\OneDrive\Desktop\DasProo\obj\Debug\net6.0\DasProo.AssemblyInfo.cs
+C:\Users\62812\OneDrive\Desktop\DasProo\obj\Debug\net6.0\DasProo.csproj.CoreCompileInputs.cache
+C:\Users\62812\OneDrive\Desktop\DasProo\obj\Debug\net6.0\DasProo.dll
+C:\Users\62812\OneDrive\Desktop\DasProo\obj\Debug\net6.0\refint\DasProo.dll
+C:\Users\62812\OneDrive\Desktop\DasProo\obj\Debug\net6.0\DasProo.pdb
+C:\Users\62812\OneDrive\Desktop\DasProo\obj\Debug\net6.0\DasProo.genruntimeconfig.cache
+C:\Users\62812\OneDrive\Desktop\DasProo\obj\Debug\net6.0\ref\DasProo.dll

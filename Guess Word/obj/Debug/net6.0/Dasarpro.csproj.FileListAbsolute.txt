@@ -1,0 +1,15 @@
+C:\Users\62812\OneDrive\Desktop\Dasarpro\bin\Debug\net6.0\Dasarpro.exe
+C:\Users\62812\OneDrive\Desktop\Dasarpro\bin\Debug\net6.0\Dasarpro.deps.json
+C:\Users\62812\OneDrive\Desktop\Dasarpro\bin\Debug\net6.0\Dasarpro.runtimeconfig.json
+C:\Users\62812\OneDrive\Desktop\Dasarpro\bin\Debug\net6.0\Dasarpro.dll
+C:\Users\62812\OneDrive\Desktop\Dasarpro\bin\Debug\net6.0\Dasarpro.pdb
+C:\Users\62812\OneDrive\Desktop\Dasarpro\obj\Debug\net6.0\Dasarpro.csproj.AssemblyReference.cache
+C:\Users\62812\OneDrive\Desktop\Dasarpro\obj\Debug\net6.0\Dasarpro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62812\OneDrive\Desktop\Dasarpro\obj\Debug\net6.0\Dasarpro.AssemblyInfoInputs.cache
+C:\Users\62812\OneDrive\Desktop\Dasarpro\obj\Debug\net6.0\Dasarpro.AssemblyInfo.cs
+C:\Users\62812\OneDrive\Desktop\Dasarpro\obj\Debug\net6.0\Dasarpro.csproj.CoreCompileInputs.cache
+C:\Users\62812\OneDrive\Desktop\Dasarpro\obj\Debug\net6.0\Dasarpro.dll
+C:\Users\62812\OneDrive\Desktop\Dasarpro\obj\Debug\net6.0\refint\Dasarpro.dll
+C:\Users\62812\OneDrive\Desktop\Dasarpro\obj\Debug\net6.0\Dasarpro.pdb
+C:\Users\62812\OneDrive\Desktop\Dasarpro\obj\Debug\net6.0\Dasarpro.genruntimeconfig.cache
+C:\Users\62812\OneDrive\Desktop\Dasarpro\obj\Debug\net6.0\ref\Dasarpro.dll

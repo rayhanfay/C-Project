@@ -1,0 +1,15 @@
+C:\Users\62812\OneDrive\Desktop\Adventure\bin\Debug\net6.0\Adventure.exe
+C:\Users\62812\OneDrive\Desktop\Adventure\bin\Debug\net6.0\Adventure.deps.json
+C:\Users\62812\OneDrive\Desktop\Adventure\bin\Debug\net6.0\Adventure.runtimeconfig.json
+C:\Users\62812\OneDrive\Desktop\Adventure\bin\Debug\net6.0\Adventure.dll
+C:\Users\62812\OneDrive\Desktop\Adventure\bin\Debug\net6.0\Adventure.pdb
+C:\Users\62812\OneDrive\Desktop\Adventure\obj\Debug\net6.0\Adventure.csproj.AssemblyReference.cache
+C:\Users\62812\OneDrive\Desktop\Adventure\obj\Debug\net6.0\Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62812\OneDrive\Desktop\Adventure\obj\Debug\net6.0\Adventure.AssemblyInfoInputs.cache
+C:\Users\62812\OneDrive\Desktop\Adventure\obj\Debug\net6.0\Adventure.AssemblyInfo.cs
+C:\Users\62812\OneDrive\Desktop\Adventure\obj\Debug\net6.0\Adventure.csproj.CoreCompileInputs.cache
+C:\Users\62812\OneDrive\Desktop\Adventure\obj\Debug\net6.0\Adventure.dll
+C:\Users\62812\OneDrive\Desktop\Adventure\obj\Debug\net6.0\refint\Adventure.dll
+C:\Users\62812\OneDrive\Desktop\Adventure\obj\Debug\net6.0\Adventure.pdb
+C:\Users\62812\OneDrive\Desktop\Adventure\obj\Debug\net6.0\Adventure.genruntimeconfig.cache
+C:\Users\62812\OneDrive\Desktop\Adventure\obj\Debug\net6.0\ref\Adventure.dll

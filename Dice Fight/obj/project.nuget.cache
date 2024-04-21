@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pzHpQNnhU3Dy5agX9Scom5wgCdM678yks3xNt+X5aK6ha6O+vDOIS1/1aKOVkQebTZ8RgR8hAty0VCeRhuRgeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\62812\\OneDrive - student.unri.ac.id\\!!Kuliah\\Semester 1\\Daspro\\rayhanalfarassydaspro-main\\rayhanalfarassydaspro-main\\Permainan Adu Dadu\\DasPro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\62812\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\62812\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\62812\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\62812\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
